@@ -1,0 +1,1 @@
+("6.7" ("473034df5de7911fa24c2477e6deb720a9382cdb" . "2a6cbadb2ecf89ac2dd8815e720613f94e07fbbd") #"C:\\Users\\Bonke1337\\Desktop\\Monopol racket\\Plot-card.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt") (collects #"racket" #"gui.rkt") (collects #"racket" #"runtime-config.rkt"))
